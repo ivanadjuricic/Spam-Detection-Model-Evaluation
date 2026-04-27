@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+ipykernel
+matplotlib
+seaborn
+notebook
